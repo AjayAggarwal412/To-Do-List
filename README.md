@@ -1,4 +1,3 @@
-Certainly! Below are the instructions you can include in your GitHub README file to guide users on how to set up and run your application:
 
 ---
 
