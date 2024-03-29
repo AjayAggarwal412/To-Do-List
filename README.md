@@ -14,7 +14,7 @@ Follow these steps to set up and run the application locally:
 Clone this repository to your local machine using the following command:
 
 ```
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/AjayAggarwal412/To-Do-List.git
 ```
 
 ### 2. Navigate to the Project Directory
